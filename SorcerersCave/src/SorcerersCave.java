@@ -1080,7 +1080,6 @@ public class SorcerersCave extends JFrame {
 	 * Main method starting instance of sorcerersCave
 	 * @param args
 	 */
-	@SuppressWarnings("unused")
 	public static void main (String [] args) {
         new SorcerersCave ();
     } // end main
